@@ -4,4 +4,5 @@ RENCANA BUKU RIWANDI
   * Buat catatan di notion terkait apa yang udah dibaca
 - Makanya, Mikir!
   * Kasih contoh decision making secara complete
+  * Buat decision making secara complete untuk orang lain
 - Introduction to Logic!
