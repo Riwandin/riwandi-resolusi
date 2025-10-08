@@ -3,5 +3,6 @@ RENCANA BUKU RIWANDI
   * Target 1 bab dalam 3 hari
   * Buat catatan di notion terkait apa yang udah dibaca
 - Makanya, Mikir!
-- The art of not giving a fuck
+  * Kasih contoh decision making secara complete
+  * Buat decision making secara complete untuk orang lain
 - Introduction to Logic!
